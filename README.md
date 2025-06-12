@@ -1,4 +1,6 @@
-# ToDoUASMDI
+# ToDoUASMDI 
+
+Kode yang asli ada di Master Branch
 
 ### 👤 Nama Kontributor:
 - Fizard Surya Pratama Ramadhan (https://github.com/Fizard18/todo_UASMDI)
