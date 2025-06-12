@@ -51,5 +51,5 @@ Berikut adalah beberapa tampilan dari aplikasi ToDoList:
 
 ### 1. **Clone Repository**
 ```bash
-git clone https://github.com/labib748/UAS_MDI.git
-cd UAS_MDI
+git clone (https://github.com/Fizard18/todo_UASMDI)
+cd todo_UASMDI
